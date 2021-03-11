@@ -1,8 +1,10 @@
+[
 {
-  "staff": [
+  "staff":
     { "Image": "https://toplist.vn/images/800px/ninh-duong-lan-ngoc-546597.jpg", "name": "Star Wars", "tel": "1977" },
     { "Image": "https://bloganchoi.com/wp-content/uploads/2020/10/tinh-y.jpg", "name": "Back to the Future", "tel": "1985" },
     { "Image": "http://media.hanoitv.vn/files/quocminh/2017-12-25/dep10.jpg", "name": "The Matrix", "tel": "1999" },
     { "Image": "https://i.pinimg.com/originals/6a/0c/dc/6a0cdc3c235387496a41427a50605c01.jpg", "name": "Inception", "tel": "2010" },
     { "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwJ8fAZvGmnY16kKYavaIlcGeU0DME7Ijqw&usqp=CAU", "name": "Interstellar", "tel": "2014" }
 }
+]
