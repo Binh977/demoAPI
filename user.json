@@ -1,16 +1,16 @@
 
 {
   "staff": [
-    { "id": "1", "avt": "https://i.pinimg.com/564x/94/9b/8d/949b8d8d9229693ba9d53b054b738e2a.jpg", "name": "Star Wars", "tel": "1977","profile":"Đây là thông tin chi tiết" },
-    { "id": "2","avt": "https://bloganchoi.com/wp-content/uploads/2020/10/tinh-y.jpg", "name": "Back to the Future", "tel": "1985","profile":"Đây là thông tin chi tiết" },
-    { "id": "3","avt": "http://media.hanoitv.vn/files/quocminh/2017-12-25/dep10.jpg", "name": "The Matrix", "tel": "1999","profile":"Đây là thông tin chi tiết" },
-    { "id": "4","avt": "https://i.pinimg.com/originals/6a/0c/dc/6a0cdc3c235387496a41427a50605c01.jpg", "name": "Inception", "tel": "2010","profile":"Đây là thông tin chi tiết" },
-    { "id": "5","avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwJ8fAZvGmnY16kKYavaIlcGeU0DME7Ijqw&usqp=CAU", "name": "Interstellar", "tel": "2014","profile":"Đây là thông tin chi tiết" },
-    { "id": "6","avt": "https://i.pinimg.com/564x/94/9b/8d/949b8d8d9229693ba9d53b054b738e2a.jpg", "name": "Star Wars", "tel": "1977","profile":"Đây là thông tin chi tiết" },
-    { "id": "7","avt": "https://bloganchoi.com/wp-content/uploads/2020/10/tinh-y.jpg", "name": "Back to the Future", "tel": "1985","profile":"Đây là thông tin chi tiết" },
-    { "id": "8","avt": "http://media.hanoitv.vn/files/quocminh/2017-12-25/dep10.jpg", "name": "The Matrix", "tel": "1999","profile":"Đây là thông tin chi tiết" },
-    { "id": "9","avt": "https://i.pinimg.com/originals/6a/0c/dc/6a0cdc3c235387496a41427a50605c01.jpg", "name": "Inception", "tel": "2210","profile":"Đây là thông tin chi tiết" },
-    { "id": "10","avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUwJ8fAZvGmnY16kKYavaIlcGeU0DME7Ijqw&usqp=CAU", "name": "Interstellar", "tel": "2014","profile":"Đây là thông tin chi tiết" }
+    { "id": "1", "avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkrS_68Ei8f2-ybARHtWNL0oZfjreZx3eWw&usqp=CAU", "name": "Monkey D Luffy", "tel": "1977","profile":"Đây là thông tin chi tiết" },
+    { "id": "2","avt": "https://i.pinimg.com/236x/c2/90/9a/c2909ace248b4de1df820f92be5e7ae5.jpg", "name": "Roronoa Zoro", "tel": "1985","profile":"Đây là thông tin chi tiết" },
+    { "id": "3","avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOYJu2kH-AGRZbqPCUUQHcYU-JVq9l1nHVA&usqp=CAU", "name": "Nami", "tel": "1999","profile":"Đây là thông tin chi tiết" },
+    { "id": "4","avt": "https://i.pinimg.com/originals/6a/0c/dc/6a0cdc3c235387496a41427a50605c01.jpg", "name": "Vinsmoke Sanji", "tel": "2010","profile":"Đây là thông tin chi tiết" },
+    { "id": "5","avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSteN0X7fu_UISzZdZFlbBb4KAvuTMPVyqlg&usqp=CAU", "name": "Usopp", "tel": "2014","profile":"Đây là thông tin chi tiết" },
+    { "id": "6","avt": "https://i.pinimg.com/originals/b2/b8/07/b2b8072d1c2da8bf1c0dc8d5ec08b913.jpg", "name": "Tony Tony Chopper", "tel": "1977","profile":"Đây là thông tin chi tiết" },
+    { "id": "7","avt": "https://66.media.tumblr.com/aeac02430ab2b4f4d7e07d8324aff352/tumblr_pplm05Vm0w1t0t84d_540.jpg", "name": "Nico Robin", "tel": "1985","profile":"Đây là thông tin chi tiết" },
+    { "id": "8","avt": "https://hoso.wiki/wp-content/uploads/2020/08/franky-dau-troc.jpg", "name": "Franky", "tel": "1999","profile":"Đây là thông tin chi tiết" },
+    { "id": "9","avt": "http://picture.dzogame.vn/Img/BROOK5_pp_672.jpg", "name": "Brook", "tel": "2210","profile":"Đây là thông tin chi tiết" },
+    { "id": "10","avt": "https://lh3.googleusercontent.com/proxy/_NGQz1TamJe7NopEmloHiKEPXNXg6F2S0DW0NN01fpMXvYTwazm5BsJZWvZBy00a8STQM45L2cXjzI8ZI3QiWw7KUXIuBklhSHh7Es_mFS1YbRlLW8iN0e91cGtCwFb9fu_A", "name": "Jinbei", "tel": "2014","profile":"Đây là thông tin chi tiết" }
 
 ]
 }
