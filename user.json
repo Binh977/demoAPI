@@ -1,7 +1,7 @@
 
 {
   "staff": [
-    { "id": "1", "avt": "https://bphimmoi.net/wp-content/uploads/2022/03/thu-tinh-62791-thumbnail-250x350.jpg", "name": "Monkey D Luffy", "tel": "1977","profile":"Đây là thông tin chi tiết","video":"https://www.youtube.com/watch?v=DBk4B6YVnqQ" },
+    { "id": "1", "avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkrS_68Ei8f2-ybARHtWNL0oZfjreZx3eWw&usqp=CAU", "name": "Monkey D Luffy", "tel": "1977","profile":"Đây là thông tin chi tiết","video":"https://www.youtube.com/watch?v=DBk4B6YVnqQ" },
     { "id": "2","avt": "https://i.pinimg.com/236x/c2/90/9a/c2909ace248b4de1df820f92be5e7ae5.jpg", "name": "Roronoa Zoro", "tel": "1985","profile":"Đây là thông tin chi tiết","video": "https://www.youtube.com/watch?v=_JNJ9BqKl5M"  },
     { "id": "3","avt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOYJu2kH-AGRZbqPCUUQHcYU-JVq9l1nHVA&usqp=CAU", "name": "Nami", "tel": "1999","profile":"Đây là thông tin chi tiết","video":"https://www.youtube.com/watch?v=1TWau7Uf7Ow"  },
     { "id": "4","avt": "https://gamek.mediacdn.vn/133514250583805952/2020/6/26/sj1-15931466280081073036825.jpg", "name": "Vinsmoke Sanji", "tel": "2010","profile":"Đây là thông tin chi tiết","video":"https://www.youtube.com/watch?v=AJRr4rbrPRI"  },
